@@ -29,7 +29,7 @@ I can only come up with two of these and the second is the main purpose haha (ev
 
 ## 🐫How to use KeyEmu?
 
-No big deal super, like cooking rice (because I'm Asian) 😂
+No big deal super easy just like cooking rice (because I'm Asian) 😂
 
  1. Download the latest release of [keyemu.exe](https://github.com/panhavad/keyboard-emulator/releases) 
  2. Open CMD
